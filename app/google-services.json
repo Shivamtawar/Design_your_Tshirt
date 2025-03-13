@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328730463638",
+    "project_id": "design-tshirt123",
+    "storage_bucket": "design-tshirt123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328730463638:android:c204e29179ed574b71e1b7",
+        "android_client_info": {
+          "package_name": "com.example.designyourt_shirt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfv3Hp5rB7tJcBUVUSHda1FpcjoFq4_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
